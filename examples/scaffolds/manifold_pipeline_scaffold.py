@@ -2,7 +2,7 @@ from typing import List, Union, Generator, Iterator
 from schemas import OpenAIChatMessage
 
 
-class Pipeline:
+class pipe:
     def __init__(self):
         # You can also set the pipelines that are available in this pipeline.
         # Set manifold to True if you want to use this pipeline as a manifold.
